@@ -1,1 +1,1 @@
-# MR-TT-indexing-Stepper-motor
+# Model Railroad-TurnTable-indexing-with Stepper-motor and Arduino
